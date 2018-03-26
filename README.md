@@ -216,7 +216,7 @@ Entre las mayores dificultades está en coordinar y agendar entrevistas y testeo
 #### Planes futuros
 La app en su idea principal muestra indicios de que funciona, falta iterar los resultados del primer testeo para hacer más completa la experiencia, definir los contenidos y las necesidades que cubrirán. Y proponer nuevas funcionalidades que puedan enriquecer y mejorar la app. Muchas ideas han surgido en el camino. Se identificó que la problemática tratada es parte de una más grande sobre la falta de información para algunos de tipos de condiciones raras de salud. El alcance de este proyecto es servir como facilitador en la comunicación entre la persona disautonomía y personas cercanas.
 
-### Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolio-j/)
+### Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
