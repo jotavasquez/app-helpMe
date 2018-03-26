@@ -174,8 +174,7 @@ Con el esquema se ordenó el flujo de navegación y proyector los contenidos pri
 ### Link Wireframes en figma
 [LINK wIreframes HD](https://www.figma.com/proto/YAaB9mgFbdJDBvPbBLbkluFD/uicurve-henry-latham?scaling=contain&node-id=45%3A5578)
 
-
-
+![helpmefireframe](https://user-images.githubusercontent.com/32280840/37905963-fe5ff146-30d6-11e8-8eb4-f378fb9ffcf0.png)
 
 ### Testeos
 
