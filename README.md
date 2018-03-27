@@ -3,8 +3,10 @@
 ## Descripción
 Investigacion para la propuesta de una App móvil que ayude a personas con disautonomía en momentos de crisis:la cual las personas que la padecen sufren bajadas abruptas de presión que producen una disminución del flujo de sangre al cerebro, como respuesta refleja llamada síncope(sin pérdida de conciencia) o desmayo(con pérdida de conciencia). Con el objetivo principal de facilitar la comunicación entre estas personas con sus familiares, transeúntes y profesionales de la salud que no conocen la condición.
 
-
 ![helpmemock](https://user-images.githubusercontent.com/32280840/37885005-3ed5e60c-3089-11e8-9003-73c60afb8846.jpg)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 ![image](https://user-images.githubusercontent.com/32280840/37900003-5e426562-30c3-11e8-87dc-0b8e11af7514.png)
 
@@ -218,5 +220,4 @@ La app en su idea principal muestra indicios de que funciona, falta iterar los r
 
 ### Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
 
-## Desarrollado para 
-[Laboratoria](http://laboratoria.la)
+
