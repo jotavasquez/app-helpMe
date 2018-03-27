@@ -1,19 +1,14 @@
 # HelpMe App
-
 ## Descripción
 Investigacion para la propuesta de una App móvil que ayude a personas con disautonomía en momentos de crisis:la cual las personas que la padecen sufren bajadas abruptas de presión que producen una disminución del flujo de sangre al cerebro, como respuesta refleja llamada síncope(sin pérdida de conciencia) o desmayo(con pérdida de conciencia). Con el objetivo principal de facilitar la comunicación entre estas personas con sus familiares, transeúntes y profesionales de la salud que no conocen la condición.
-
 ![helpmemock](https://user-images.githubusercontent.com/32280840/37885005-3ed5e60c-3089-11e8-9003-73c60afb8846.jpg)
-
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
-
 ![image](https://user-images.githubusercontent.com/32280840/37900003-5e426562-30c3-11e8-87dc-0b8e11af7514.png)
 
 ### Proceso
 #### Introducción
 Existe un condición llamada disautonomía, en la cual las personas que la padecen sufren bajadas abruptas de presión que producen una disminución del flujo de sangre al cerebro, como respuesta refleja llamada síncope(sin pérdida de conciencia) o desmayo(con pérdida de conciencia). Esta acción lleva al cuerpo rápidamente a una postura horizontal; esta posición ayuda a optimizar el flujo sanguíneo que llega al cerebro y así evitar el daño causado por la falta de oxígeno.
-
 
 El sistema nervioso de estas personas reacciona de manera diferente a las personas normales en ciertas situaciones, por ello se habla de disautonomía(sistema autonómo se encuentra descoordinado con el cuerpo).
 Es una condición identificada como tal  sólo hace 20 años, y aún no existe una cura, ni una explicación definitiva de su causa. Tiene la particularidad de que los síntomas que presentan los pacientes tienen algunas variaciones, y no está catalogada como causa de mortalidad, aún así la calidad de vida de estas personas se ve afectada dependiendo del grado de disautonomía.
