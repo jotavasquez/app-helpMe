@@ -4,9 +4,9 @@ Investigacion para la propuesta de una App móvil que ayude a personas con disau
 ![helpmemock](https://user-images.githubusercontent.com/32280840/37885005-3ed5e60c-3089-11e8-9003-73c60afb8846.jpg)
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
-![image](https://user-images.githubusercontent.com/32280840/37900003-5e426562-30c3-11e8-87dc-0b8e11af7514.png)
 
 ### Proceso
+![image](https://user-images.githubusercontent.com/32280840/37900003-5e426562-30c3-11e8-87dc-0b8e11af7514.png)
 #### Introducción
 Existe un condición llamada disautonomía, en la cual las personas que la padecen sufren bajadas abruptas de presión que producen una disminución del flujo de sangre al cerebro, como respuesta refleja llamada síncope(sin pérdida de conciencia) o desmayo(con pérdida de conciencia). Esta acción lleva al cuerpo rápidamente a una postura horizontal; esta posición ayuda a optimizar el flujo sanguíneo que llega al cerebro y así evitar el daño causado por la falta de oxígeno.
 
@@ -97,7 +97,6 @@ Para entender mejor la problemática, se realizó una persona de acuerdo a los d
 ___
 
 ![empatia](https://user-images.githubusercontent.com/32280840/37901605-25462c62-30c8-11e8-80eb-630fc4099af2.png)
-
 ____
 
 ### Job Story
@@ -133,7 +132,6 @@ Entendiendo que las crisis de disautonomía son distintas para cada usuario, inc
 ### Customer Journey Map: Crisis de disautonomía
 Conociendo la finalidad principal de este grupo de WhatsApp, se ha propuesto proponer una solución digital que pueda mejorar la experiencia de estas personas cuando están en un momento de crisis, con el objetivo de facilitar la comunicación en situaciones de emergencias.
 Este customer Journey Map se encarga de encontrar los puntos de dolor durante del proceso de crisis para analizar las oportunidades de mejora posibles. Se basa en el Job Story 2 de María.
-
 
 ***Job Story 2***
 Cuando María está caminando bajo el sol y siente que está comenzando a tener una crisis de disautonomía y sabe que se va a perder la consciencia sin previo aviso sufriendo algún tipo de golpe, ella quiere dar aviso de su ubicación a su pareja de que está teniendo una crisis de disautonomía,  así puede tranquilizarlo e informarle que sufrió sólo un desmayo en caso de que sean contactados por algún paramédico o institución de salud de emergencias y su pareja llega más rápido a acompañarla.
@@ -174,7 +172,6 @@ Con el esquema se ordenó el flujo de navegación y proyector los contenidos pri
 ![helpmefireframe](https://user-images.githubusercontent.com/32280840/37905963-fe5ff146-30d6-11e8-8eb4-f378fb9ffcf0.png)
 
 ### Testeos
-
 El objetivo era testear si la idea general de una app con estas características se entendía sin muchas explicaciones del proceso. La comprensión del sistema de alerta previa y notificación de emergencia tenía una secuencia lógica y el modo de visualizarlo en pantalla era accesible.
 
 #### Testeo 1
@@ -212,7 +209,4 @@ Entre las mayores dificultades está en coordinar y agendar entrevistas y testeo
 
 #### Planes futuros
 La app en su idea principal muestra indicios de que funciona, falta iterar los resultados del primer testeo para hacer más completa la experiencia, definir los contenidos y las necesidades que cubrirán. Y proponer nuevas funcionalidades que puedan enriquecer y mejorar la app. Muchas ideas han surgido en el camino. Se identificó que la problemática tratada es parte de una más grande sobre la falta de información para algunos de tipos de condiciones raras de salud. El alcance de este proyecto es servir como facilitador en la comunicación entre la persona disautonomía y personas cercanas.
-
 ### Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
-
-
